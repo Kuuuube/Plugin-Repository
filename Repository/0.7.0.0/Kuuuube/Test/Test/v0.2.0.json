@@ -3,7 +3,7 @@
     "Owner": "Kuuuube",
     "Description": "Description.",
     "PluginVersion": "0.2.0.0",
-    "SupportedDriverVersion": "0.6.0.0",
+    "SupportedDriverVersion": "0.7.0.0",
     "RepositoryUrl": "https://github.com/Kuuuube/Chatter_Generator",
     "DownloadUrl": "https://github.com/Kuuuube/Chatter_Generator/releases/download/0.2.0/0.2.0_release_Chatter_Generator.zip",
     "CompressionFormat": "zip",
