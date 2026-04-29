@@ -1,0 +1,13 @@
+{
+    "Name": "SHA256 Fail",
+    "Owner": "Kuuuube",
+    "Description": "This should fail SHA256 verification",
+    "PluginVersion": "0.5.1",
+    "SupportedDriverVersion": "0.6.6.0",
+    "RepositoryUrl": "https://github.com/Kuuuube/VoiDPlugins",
+    "DownloadUrl": "https://github.com/Kuuuube/VoiDPlugins/releases/download/0.5.1/WindowsInk.zip",
+    "CompressionFormat": "zip",
+    "SHA256": "5c9444202ae54527c4a9ab1db3284cafd4f2bd526feb70da58b66aa1ba1f8744",
+    "WikiUrl": "https://github.com/Kuuuube/VoiDPlugins/wiki/WindowsInk",
+    "LicenseIdentifier": "GPL-3.0-only"
+}
